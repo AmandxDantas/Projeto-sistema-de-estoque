@@ -26,13 +26,22 @@ A aplicação foi criada para praticar conceitos de programação, organização
 
 ## 📂 Estrutura do projeto
 
-Sistema_Estoque_Python
-
-main.py # Arquivo principal do sistema
-produto.py # Classe responsável pelos produtos
-banco.py # Conexão e operações do banco de dados
-estoque.db # Banco de dados SQLite
-
+Sistema_Estoque_Python/
+│
+├── main.py                 # Arquivo principal, executa o sistema e mostra o menu
+│
+├── produto.py              # Classe Produto (nome, preço, quantidade etc.)
+│
+├── estoque.py              # Regras do estoque (entrada, saída, atualização)
+│
+├── banco.py                # Conexão com o banco SQLite e criação das tabelas
+│
+├── database/
+│   └── estoque.db          # Banco de dados SQLite
+│
+├── README.md               # Documentação do projeto
+│
+└── requirements.txt        # Dependências do projeto (se houver)
 
 ## 💻 Como executar o projeto
 
