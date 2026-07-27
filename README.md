@@ -27,7 +27,7 @@ A aplicação foi criada para praticar conceitos de programação, organização
 ## 📂 Estrutura do projeto
 
 Sistema_Estoque_Python
-│
+
 ├── main.py # Arquivo principal do sistema
 ├── produto.py # Classe responsável pelos produtos
 ├── banco.py # Conexão e operações do banco de dados
