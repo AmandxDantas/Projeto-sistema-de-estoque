@@ -28,10 +28,10 @@ A aplicação foi criada para praticar conceitos de programação, organização
 
 Sistema_Estoque_Python
 
-├── main.py # Arquivo principal do sistema
-├── produto.py # Classe responsável pelos produtos
-├── banco.py # Conexão e operações do banco de dados
-└── estoque.db # Banco de dados SQLite
+main.py # Arquivo principal do sistema
+produto.py # Classe responsável pelos produtos
+banco.py # Conexão e operações do banco de dados
+estoque.db # Banco de dados SQLite
 
 
 ## 💻 Como executar o projeto
